@@ -497,4 +497,4 @@ const buffer = fs.readFileSync(filepath)
    // end of file
 
 
-})
+}) 
